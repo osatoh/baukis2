@@ -26,6 +26,8 @@ end
 
 group :development do
   gem "web-console"
+  gem "debase"
+  gem "ruby-debug-ide"
 end
 
 group :test do
