@@ -18,6 +18,7 @@ module Baukis2
       g.asserts false
       g.test_framework :rspec
       g.controller_specs false
+      g.request_specs false
       g.view_specs false
     end
   end
